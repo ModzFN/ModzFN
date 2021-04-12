@@ -1,0 +1,16 @@
+{
+    "email": "email@email.com",
+    "password": "password1",
+    "cid": "CID_028_Athena_Commando_F",
+    "bid": "BID_NOBACKPACK",
+    "eid": "EID_NoDance",
+    "pickaxe_id": "Pickaxe_Lockjaw",
+    "banner": "BRSeason1",
+    "banner_colour": "defaultcolor1",
+    "level": 99,
+    "bp_tier": 99,
+    "status": "https://discord.io/ModzFN",
+    "platform": "WIN",
+    "debug": false,
+    "friend_accept": true,
+}
